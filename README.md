@@ -6,7 +6,7 @@ The script will parse the tab-delimited input file with genes in rows and access
 Note
 Image dimensions are static and need to change accordingly in script
 
-Output: PAV.svg
+Output: PAV.jpg
 
 Usage: python PAVimage.py meanids.txt
 
