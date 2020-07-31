@@ -1,4 +1,4 @@
-# gittest
+
 # GenePAVimage
 
 The script will parse the tab-delimited input file with genes in rows and accessions in columns. The gene presence and absence are indicated in the binary matrix (0/1) format.
