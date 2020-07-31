@@ -24,7 +24,7 @@ g10080  1       1       0       0
 g10078  0       1       1       1
 
 # Output
-
+![PAV image](https://github.com/pradeepruperao/GenePAVimage/blob/master/PAV.jpg)
 PAV.jpg
 
 # Usage
